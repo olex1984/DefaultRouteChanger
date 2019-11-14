@@ -1,0 +1,6 @@
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\bin\Debug\RouteWriter.exe.config
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\bin\Debug\RouteWriter.exe
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\bin\Debug\RouteWriter.pdb
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\obj\Debug\RouteWriter.csprojResolveAssemblyReference.cache
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\obj\Debug\RouteWriter.exe
+C:\Users\citcer\Documents\SharpDevelop Projects\RouteWriter\RouteWriter\obj\Debug\RouteWriter.pdb
